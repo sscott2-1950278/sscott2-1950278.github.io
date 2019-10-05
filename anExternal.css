@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(50, 180, 159);
+}
+h1 {
+    color: rgb(3, 73, 52);
+    margin-left: 25px;
+}
+p {
+    font-size: 18px;
+}
+p1 {
+    font-size:14px;
+}
+marginDiv {
+    border:1px black;
+    margin: 20px;
+    background-color: white;
+}
+.dotted{
+    border-style: dotted;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: rgb(3, 228, 52);
+
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+testing{
+    margin:20px;
+    float:right
+}
+#rcorners3 {
+    border-radius: 20px;
+    background: white;
+    padding: 20px;
+    width:100px;
+    height:100px;
+}
+
