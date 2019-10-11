@@ -20,14 +20,14 @@ div{
     
 }
 legend{
-    color:white;
+    color: darkslateblue;
     font-weight: bold;
     font-size: 24px;
     font-family: "Times New Roman";
 }
 
 table{
-    border-style: double;
+    border: solid 5px black;
 }
 form-control{
     background-color: ivory;
