@@ -1,0 +1,43 @@
+title{
+    float: right;
+}
+body{
+    background-image: url('mosaic.png');
+}
+h3{
+    float: right;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    color: rgb(148, 26, 132);
+}
+div{
+    color: rgb(134, 13, 134);
+    position: relative;
+    right: 100 px;
+
+    
+}
+legend{
+    color:white;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: "Times New Roman";
+}
+
+table{
+    border-style: dotted;
+}
+form-control{
+    align-self: center;
+}
+p{
+    padding: center;
+}
+submit{
+    background: purple;
+}
+.btn{
+    background: purple;
+}
