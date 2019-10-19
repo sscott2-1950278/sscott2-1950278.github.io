@@ -8,7 +8,7 @@
 		margin: 0px;
 		padding: 0px;
 		background: rgb(152, 0, 153) url(full-bloom.png) repeat;
-		font-family: 'Questrial', Verdana, Geneva, Tahoma, sans-serif;
+		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
 		color: rgba(0,0,0,.6);
 	}
